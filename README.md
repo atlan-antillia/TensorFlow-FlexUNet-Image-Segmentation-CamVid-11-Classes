@@ -182,7 +182,7 @@ image_width    = 512
 image_height   = 512
 image_channels = 3
 input_normalize = True
-num_classes    = 10
+num_classes    = 12
 
 base_filters   = 16
 base_kernels   = (11,11)
